@@ -98,9 +98,9 @@ h7,h8 {
 	max-width: 1232px;
 	padding-left: 0.75%;
 	padding-right: 0.75%;
-	margin: auto;
 	clear: none;
 	float: none;
+	margin: auto;
 	margin-left: auto;
 }
 #div1 {
@@ -124,7 +124,7 @@ h7 {
 
 .gridContainer {
 	width: 88.5%;
-	max-width: 1232px;
+	max-width: 1306px;
 	padding-left: 0.75%;
 	padding-right: 0.75%;
 	margin: auto;
