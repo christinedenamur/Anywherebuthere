@@ -120,3 +120,32 @@ h7 {
 	line-height:1em;
 }
 }
+@media only screen and (max-width: 769px) {
+
+.gridContainer {
+	width: 88.5%;
+	max-width: 1232px;
+	padding-left: 0.75%;
+	padding-right: 0.75%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#div1 {
+}
+.zeroMargin_desktop {
+    margin-left: 0;
+}
+.hide_desktop {
+    display: none;
+}
+h8 {
+    font-size: 5em;
+	line-height:1em;
+}
+h7 {
+	font-size: 5em;
+	line-height:1em;
+}
+}
