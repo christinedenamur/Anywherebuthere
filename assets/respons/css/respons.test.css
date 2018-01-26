@@ -118,6 +118,7 @@ h8 {
 h7 {
 	font-size: 3em;
 	line-height:1em;
+	Margin-top: 3%;
 }
 }
 @media only screen and (max-width: 1024px) {
@@ -147,5 +148,7 @@ h8 {
 h7 {
 	font-size: 4em;
 	line-height:1em;
+	Margin-top: 3%;
+
 }
 }
